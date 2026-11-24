@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
-    <img src="banner-dark.png" width="640" alt="ZZDEV, desarrollador backend, full stack y AWS">
+    <img src="banner-dark.png" width="640" alt="ZZDEV, desarrollador backend, full stack y Cloud">
   </picture>
 </p>
 
