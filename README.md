@@ -38,15 +38,6 @@ Construyo sistemas completos: API, panel web y app Android, desplegados en mi pr
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,powerbi&amp;theme=dark" alt="MySQL, PostgreSQL, MongoDB, Power BI">
 
-
-**Bases de datos y BI**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&amp;theme=dark" alt="MySQL, PostgreSQL, MongoDB">
-<br>
-<img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&amp;logo=couchbase&amp;logoColor=white" alt="Couchbase">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI">
-
-
 **Cloud y herramientas**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,ubuntu,git,github,postman,figma&amp;theme=dark" alt="AWS, Docker, Nginx, Linux, Ubuntu, Git, GitHub, Postman, Figma">
