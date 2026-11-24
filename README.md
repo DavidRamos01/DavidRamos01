@@ -15,14 +15,34 @@ Construyo sistemas completos: API, panel web y app Android, desplegados en mi pr
 [Web](https://corebar.es) · [LinkedIn](https://www.linkedin.com/in/david-ramos-cordero) · [Email](mailto:davidrc0113@gmail.com) · [Demo de Corebar](https://demo.corebar.es)
 
 ---
+## Qué sé hacer
 
+- **Crear APIs REST completas** con Java 21 y Spring Boot: autenticación con JWT, roles y permisos, contraseñas cifradas con BCrypt, validación de datos y documentación con Swagger.
+- **Diseñar y consultar bases de datos** con MySQL, PostgreSQL y SQL, con Hibernate/JPA, y también trabajar con bases NoSQL como MongoDB y Couchbase.
+- **Hacer aplicaciones web** con React y TypeScript: paneles de administración, dashboards de ventas, alertas de stock y pantallas en tiempo real.
+- **Desarrollar apps Android nativas** con Kotlin, Jetpack Compose y Retrofit, conectadas a una API propia.
+- **Sacar informes y cuadros de mando** con Power BI a partir de bases de datos reales de una empresa.
+- **Desplegar y mantener** lo que construyo: Docker, Nginx, certificados HTTPS y servidores Linux, con repositorio en Git y GitHub.
+- **Diseñar interfaces en Figma** y probar APIs con Postman y Swagger antes de programarlas.
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,react,ts,mysql,aws,docker,nginx,linux,git&amp;theme=dark" alt="Java, Spring, Kotlin, React, TypeScript, MySQL, AWS, Docker, Nginx, Linux, Git">
-</p>
+**Backend**
 
-También: PHP (Laravel) · Python · JavaScript · PostgreSQL · MongoDB · Power BI · Jetpack Compose · Flutter · Figma · Postman
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,py,wordpress&amp;theme=dark" alt="Java, Spring, Hibernate, PHP, Laravel, Python, WordPress">
+
+**Frontend y móvil**
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,kotlin,androidstudio,flutter,firebase&amp;theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Kotlin, Android Studio, Flutter, Firebase">
+
+**Bases de datos y BI**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,powerbi&amp;theme=dark" alt="MySQL, PostgreSQL, MongoDB, Power BI">
+
+**Cloud y herramientas**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,ubuntu,git,github,postman,swagger,figma&amp;theme=dark" alt="AWS, Docker, Nginx, Linux, Ubuntu, Git, GitHub, Postman, Swagger, Figma">
+
+También: Spring Security · JWT · APIs REST · Jetpack Compose · Retrofit · Couchbase
 
 ---
 
