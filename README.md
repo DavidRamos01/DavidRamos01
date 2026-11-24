@@ -12,7 +12,7 @@
 
 Construyo sistemas completos: API, panel web y app Android, desplegados en mi propio servidor.
 
-[Web](https://corebar.es) · [LinkedIn](https://www.linkedin.com/in/david-ramos-cordero) · [Email](mailto:davidrc0113@gmail.com) · [Demo de Corebar](https://demo.corebar.es)
+[Web](https://corebar.es) · [LinkedIn](https://www.linkedin.com/in/david-ramos-cordero) · [Email](mailto:davidrc0113@gmail.com)
 
 ---
 ## Qué sé hacer
