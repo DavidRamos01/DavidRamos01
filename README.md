@@ -40,7 +40,7 @@ Construyo sistemas completos: API, panel web y app Android, desplegados en mi pr
 
 **Cloud y herramientas**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,ubuntu,git,github,postman,swagger,figma&amp;theme=dark" alt="AWS, Docker, Nginx, Linux, Ubuntu, Git, GitHub, Postman, Figma">
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,ubuntu,git,github,postman,figma&amp;theme=dark" alt="AWS, Docker, Nginx, Linux, Ubuntu, Git, GitHub, Postman, Figma">
 
 También: Spring Security · JWT · APIs REST · Swagger/OpenAPI · Jetpack Compose · Retrofit · Couchbase
 
